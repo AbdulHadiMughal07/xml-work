@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<foodlist>
+    <fooditem>
+        <name>Pizza</name>
+        <cost>$8</cost>
+    </fooditem>
+
+    <fooditem>
+        <name>Burger</name>
+        <cost>$4</cost>
+    </fooditem>
+
+    <fooditem>
+        <name>Steak</name>
+        <cost>$10</cost>
+    </fooditem>
+
+    <fooditem>
+        <name>Biryani</name>
+        <cost>$6</cost>
+    </fooditem>
+</foodlist>
