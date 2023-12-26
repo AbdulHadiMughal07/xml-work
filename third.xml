@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<organaization>
+    <c-10th:records xmlns:c-10th="https://www.ahm-school.com/class-10th-students">
+
+        <c-10th:record>
+           <c-10th:name>Abdullah</c-10th:name> 
+           <c-10th:name>Ayyan</c-10th:name> 
+        </c-10th:record>
+
+    </c-10th:records>
+
+    <c-9th:records xmlns:c-9th="https://www.ahm-school.com/class-9th-students">
+
+    <c-9th:record>
+       <c-9th:name>Sultan</c-9th:name> 
+       <c-9th:name>Faizan</c-9th:name> 
+    </c-9th:record>
+
+</c-9th:records>
+
+</organaization>

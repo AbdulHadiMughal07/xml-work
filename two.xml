@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<namelist>
+    <m:names xmlns:m="https://www.ahm.com/managmenet-staff">
+        <m:name>Hunain</m:name>
+        <m:name>Arman</m:name>
+        <m:name>Zaid</m:name>
+        <m:name>Humayo</m:name>
+    </m:names>
+
+    <c:names xmlns:c="https://www.ahm.com/cleaning-staff">
+        <c:name>Root</c:name>
+        <c:name>Jatt</c:name>
+        <c:name>Caf</c:name>
+        <c:name>Chinto</c:name>
+    </c:names>
+</namelist>
