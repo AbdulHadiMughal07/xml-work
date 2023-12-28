@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AHM-WHEELS>
+    <Car-Company type="Toyota">
+        <Car-name>Supra Mk4</Car-name>
+        <Cost>$500000</Cost>
+    </Car-Company>
+</AHM-WHEELS>
