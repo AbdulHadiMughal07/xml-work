@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="one.xsl" type="text/xsl"?>
+
+<Class>
+    <Student id="1">
+        <Name>Hadi</Name>
+        <Age>16</Age>
+        <Course>XML</Course>
+    </Student>
+
+    <Student id="2">
+        <Name>Haris</Name>
+        <Age>23</Age>
+        <Course>XML</Course>
+    </Student>
+
+    <Student id="3">
+        <Name>Haziq</Name>
+        <Age>17</Age>
+        <Course>XML</Course>
+    </Student>
+
+    <Student id="4">
+        <Name>Arman</Name>
+        <Age>18</Age>
+        <Course>XML</Course>
+    </Student>
+
+    <Student id="5">
+        <Name>Hamna</Name>
+        <Age>21</Age>
+        <Course>XML</Course>
+    </Student>
+
+    <Student id="6">
+        <Name>Ayesha</Name>
+        <Age>26</Age>
+        <Course>XML</Course>
+    </Student>
+
+    <Student id="7">
+        <Name>Bisma</Name>
+        <Age>19</Age>
+        <Course>XML</Course>
+    </Student>
+
+    <Student id="8">
+        <Name>Dua</Name>
+        <Age>22</Age>
+        <Course>XML</Course>
+    </Student>
+</Class>

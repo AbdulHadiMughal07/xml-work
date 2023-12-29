@@ -5,4 +5,9 @@
         <Car-name>Supra Mk4</Car-name>
         <Cost>$500000</Cost>
     </Car-Company>
+
+    <Car-Company type="Tesla">
+        <Car-name>Modal S</Car-name>
+        <Cost>$300000</Cost>
+    </Car-Company>
 </AHM-WHEELS>
