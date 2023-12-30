@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="seventh.xsl" type="text/xsl"?>
+
+<AHM-Employee>
+    <employee id="10234">
+        <name>SALMAN</name> 
+        <salary>50000</salary>
+        <joinning>2-2-2015</joinning>
+        <position>MANAGER</position>  
+    </employee>
+
+    <employee id="10235">
+        <name>IBRAHIM</name> 
+        <salary>2000000</salary>
+        <joinning>3-5-1990</joinning>
+        <position>CEO</position>  
+    </employee>
+
+    <employee id="10236">
+        <name>JASIM</name> 
+        <salary>50000</salary>
+        <joinning>4-4-2017</joinning>
+        <position>MANAGER</position>  
+    </employee>
+
+    <employee id="10237">
+        <name>MUZAFAR</name> 
+        <salary>50000</salary>
+        <joinning>8-10-2015</joinning>
+        <position>MANAGER</position>  
+    </employee>
+
+    <employee id="10238">
+        <name>SAIMA</name> 
+        <salary>100000</salary>
+        <joinning>4-5-2000</joinning>
+        <position>MD</position>  
+    </employee>
+</AHM-Employee>

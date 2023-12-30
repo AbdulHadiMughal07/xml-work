@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="sixth.xsl" type="text/xsl"?>
+
+<Bank-Employee>
+    <employee id="103">
+        <name>Asim</name> 
+        <salary>20000</salary>  
+    </employee>
+
+    <employee id="105">
+        <name>Basim</name> 
+        <salary>30000</salary>  
+    </employee>
+
+    <employee id="110">
+        <name>Jasim</name> 
+        <salary>40000</salary>  
+    </employee>
+
+    <employee id="111">
+        <name>Qasim</name> 
+        <salary>50000</salary>  
+    </employee>
+</Bank-Employee>
