@@ -1,0 +1,5 @@
+agr issue ajaye to apne settings me jana ha wahan developer setting me jana ha then genereate new token p jana hai
+wahan kch bh naam de k repo p check krnaa hai
+
+git remote remove origin
+git remote add origin https://[personal-access-token]@github.com/username/repo_name.git
