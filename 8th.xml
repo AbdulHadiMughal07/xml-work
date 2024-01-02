@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="8th.xsl" type="text/xsl"?>
+
+
+<AHM-Employees>
+    <department>
+        <Title>Emoire Burlesque</Title>
+        <Artist>Bob Dylan</Artist>
+    </department>
+
+    <department>
+        <Title>Hide your heart</Title>
+        <Artist>Bonnie Tyler</Artist>
+    </department>
+
+    <department>
+        <Title>Greatest Hits</Title>
+        <Artist>Dolly Parton</Artist>
+    </department>
+
+    <department>
+        <Title>Still got the blues</Title>
+        <Artist>Gray Moore</Artist>
+    </department>
+
+    <department>
+        <Title>One night only</Title>
+        <Artist>Bee Gess</Artist>
+    </department>
+
+
+    <department>
+        <Title>Sylvias</Title>
+        <Artist>Dr.Hook</Artist>
+    </department>
+
+
+    <department>
+        <Title>Maggie May</Title>
+        <Artist>Road Stewart</Artist>
+    </department>
+
+    <department>
+        <Title>Romanza </Title>
+        <Artist>Andrea Bocelli</Artist>
+    </department>
+
+    <department>
+        <Title>When a man loves a women</Title>
+        <Artist>Percy Sledge</Artist>
+    </department>
+
+    <department>
+        <Title>Black angle</Title>
+        <Artist>Svage Rose</Artist>
+    </department>
+
+    <department>
+        <Title>1999 Germany Nominees</Title>
+        <Artist>Many</Artist>
+    </department>
+
+    <department>
+        <Title>For the goos times</Title>
+        <Artist>Kenny Rogers</Artist>
+    </department>
+
+    <department>
+        <Title>Tupelo Honey</Title>
+        <Artist>Van Morrison</Artist>
+    </department>
+</AHM-Employees>
