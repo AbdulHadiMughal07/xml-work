@@ -1,4 +1,5 @@
 XML Topics
 1: Data Fatching with Xpather website
 2: Name spacing
-3: XSL Data
+3: XSL Data On HTML File
+4: JSON Compare Products
